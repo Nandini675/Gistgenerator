@@ -1,15 +1,15 @@
-transformers
-transformers[sentencepiece]
-datasets
-sacrebleu 
-rouge_score 
-py7zr
-pandas
-nltk
-tqdm
-PyYAML
-matplotlib
-torch
+# transformers
+# transformers[sentencepiece]
+# datasets
+# sacrebleu 
+# rouge_score 
+# py7zr
+# pandas
+# nltk
+# tqdm
+# PyYAML
+# matplotlib
+# torch
 notebook
 boto3
 mypy-boto3-s3
